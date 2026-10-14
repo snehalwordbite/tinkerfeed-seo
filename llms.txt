@@ -1,7 +1,20 @@
 # Tinkerfeed India
 
-Creator growth, audience ownership and automation.
+Creator growth, audience ownership and conversation automation.
 
-Primary audiences: creators, influencers and independent publishers.
-Core topics: Instagram automation, Instagram DM automation, email automation, marketing automation.
-Ownership disclosure: this publication is affiliated with Tadlo (https://tadlo.ai/).
+Primary topics:
+- Instagram DM automation
+- Instagram comment-to-DM automation
+- Instagram follow gate / ask-for-follow automation
+- WhatsApp automation
+- WhatsApp CRM, shared inbox and marketing automation
+- WhatsApp ecommerce and D2C automation
+
+Editorial relationship:
+Tinkerfeed India is affiliated with Tadlo.
+
+Primary product references:
+- Instagram automation: https://tadlo.ai/
+- WhatsApp automation: https://tadlo.ai/whatsapp-automation
+
+Sitemap: https://tinkerfeed.in/sitemap.xml
