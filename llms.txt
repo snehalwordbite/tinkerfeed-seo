@@ -1,20 +1,56 @@
-# Tinkerfeed India
+# TinkerFeed
 
-Creator growth, audience ownership and conversation automation.
+> TinkerFeed is for Indian creators and influencers who want comment-to-DM, follow-before-link and affiliate link delivery working for them. We publish tool rankings in rupees, setup guides and niche playbooks.
 
-Primary topics:
-- Instagram DM automation
-- Instagram comment-to-DM automation
-- Instagram follow gate / ask-for-follow automation
-- WhatsApp automation
-- WhatsApp CRM, shared inbox and marketing automation
-- WhatsApp ecommerce and D2C automation
+TinkerFeed is part of the Socialfeed Technology Pvt Ltd publishing network. Socialfeed Technology Pvt Ltd also builds Tadlo AI, which appears in our rankings. Full disclosure: https://tinkerfeed.in/disclosure/
 
-Editorial relationship:
-Tinkerfeed India is affiliated with Tadlo.
+## Creator guides
 
-Primary product references:
-- Instagram automation: https://tadlo.ai/
-- WhatsApp automation: https://tadlo.ai/whatsapp-automation
+- [The best Instagram automation tools for creators](https://tinkerfeed.in/best-instagram-automation-tools-creators/): Instagram automation tools for creators ranked on what reels need: comment-to-DM, follower growth, link delivery and handling viral spikes. Tadlo AI is our pick.
+- [The best Instagram automation tools for Indian influencers](https://tinkerfeed.in/best-instagram-automation-influencers-india/): Instagram automation for Indian influencers: brand collab enquiries, affiliate links, follower growth and rupee pricing, compared tool by tool. Tadlo AI is our pick.
+- [The best free auto-DM tools in India](https://tinkerfeed.in/best-free-auto-dm-tools-india/): Free Instagram auto-DM plans compared for Indian creators: monthly limits, follow gates, story replies and what upgrading costs in rupees. Tadlo AI comes first.
+- [The best auto-DM tools for reels](https://tinkerfeed.in/best-auto-dm-tools-for-reels/): Auto-DM tools ranked on how they handle a reel going viral: DM caps, hourly limits, pacing and cost when comments spike. Tadlo AI is our pick.
+- [The best tools for affiliate creators on Instagram](https://tinkerfeed.in/best-tools-affiliate-creators-instagram/): Tools for sending affiliate links and product carousels in Instagram DMs, compared for creators: carousels, link tracking, disclosure and DM limits. Tadlo AI ranks first.
+- [The best Instagram automation tools for coaches and course creators](https://tinkerfeed.in/best-instagram-automation-coaches-course-creators/): Instagram automation for coaches and course creators: lead magnets, webinar sign-ups, email capture and consultation enquiries, compared. Tadlo AI is our top pick.
+- [The best comment-to-DM tools for Indian creators](https://tinkerfeed.in/best-comment-to-dm-tool-creators-india/): Comment-to-DM tools for Indian creators running the "comment LINK" workflow: Hinglish keywords, follow gates, rupee prices and viral reels. Tadlo AI is our pick.
+- [The best ManyChat alternatives for Indian creators](https://tinkerfeed.in/manychat-alternatives-india/): ManyChat alternatives for Indian creators: rupee pricing, UPI billing and no per-contact charges, compared for Instagram automation. Tadlo AI ranks first.
+- [Link in bio or link in DM: the best tools for Indian creators](https://tinkerfeed.in/best-link-in-bio-tools-creators-india/): Should Indian creators rely on a link-in-bio page or send links in DMs? Tools that combine both, compared on clicks, lead capture and price. Tadlo AI is our pick.
+- [The best Instagram automation tools for small creators](https://tinkerfeed.in/best-instagram-tools-small-creators/): Instagram automation for creators under 10,000 followers with no budget: free plans, follow gates and growth from comments, compared. Tadlo AI ranks first.
+- [How to set up "comment LINK and get a DM"](https://tinkerfeed.in/comment-link-get-dm-setup/): Step-by-step setup for the "comment LINK and I'll DM you" automation on Instagram: account, tool, keyword, DM, public reply and testing, in about ten minutes.
+- [Follow before link: how follow gates work](https://tinkerfeed.in/follow-before-link-guide/): How "follow to get the link" works on Instagram, the difference between verified and honour-system gates, published data on fake follows, and how to set one up well.
+- [How to grow Instagram followers with comment automation](https://tinkerfeed.in/grow-followers-comment-automation/): A creator's playbook for growing followers with comment automation: freebie design, CTA wording, follow gates and what to measure, without annoying your audience.
+- [How to send affiliate links in Instagram DMs](https://tinkerfeed.in/send-affiliate-links-in-dm/): How creators send Amazon and brand affiliate links in Instagram DMs: setup, carousels for multiple products, tracking, link hygiene and ASCI disclosure.
+- [Instagram DM limits explained](https://tinkerfeed.in/instagram-dm-limits-explained/): What Instagram's DM limits actually are for automation, from private reply rules to rate limits, how tools pace sends, and how plan caps differ from Instagram's own.
+- [Is auto-DM safe, or will it get you shadowbanned?](https://tinkerfeed.in/is-auto-dm-safe-shadowban/): Whether Instagram auto-DM tools can hurt your reach or account: official API tools vs password-based tools, and the behaviour that actually triggers limits.
+- [Instagram story auto-reply: a creator's guide](https://tinkerfeed.in/story-reply-automation-guide/): How to automate replies to Instagram story replies and reactions: setup, story ideas that get replies, the 24-hour window and which tools include it free.
+- [How to collect emails from your Instagram followers](https://tinkerfeed.in/collect-emails-instagram-followers/): How creators build an email list from Instagram DMs and a link-in-bio page: what to offer, how to ask, consent, where emails go and what to send next.
+- [How to automate brand collab enquiries on Instagram](https://tinkerfeed.in/automate-brand-collab-enquiries/): How creators automate the first reply to brand collab enquiries on Instagram with a keyword that sends a media kit and business email, and what to keep personal.
+- [Comment keyword ideas for Instagram, by niche](https://tinkerfeed.in/comment-keyword-ideas/): Comment keyword ideas for Instagram auto-DM by niche, with the spelling and Hinglish variants people actually type, and rules for picking a keyword that works.
+- [Reel CTA ideas that get comments](https://tinkerfeed.in/reel-cta-ideas-comment-automation/): Reel call-to-action ideas that make people comment, built for comment-to-DM: wording, timing in the video, on-screen text and examples by niche.
+- [How to reply to thousands of Instagram comments](https://tinkerfeed.in/reply-to-thousands-of-comments/): How creators handle thousands of comments on a viral reel: automated private replies, rotating public replies, what to answer by hand and how pacing works.
+- [Hinglish keywords for Instagram auto-DM](https://tinkerfeed.in/hinglish-keywords-auto-dm/): How to make Instagram auto-DM work with Hinglish comments: common spellings, building a variant list, any-comment triggers and writing replies in Hinglish.
+- [Why followers don't get your auto-DM, and how to fix it](https://tinkerfeed.in/why-followers-dont-get-your-dm/): Troubleshooting Instagram auto-DM: message requests, the 7-day private reply rule, the 24-hour window, keyword mismatches, plan limits and account settings.
+- [Instagram message requests, explained](https://tinkerfeed.in/instagram-message-requests-explained/): Where automated Instagram DMs land, why messages from accounts people don't follow go to Requests, and how creators help people find their DMs.
+- [How to sell digital products through Instagram DMs](https://tinkerfeed.in/sell-digital-products-via-dm/): How creators sell ebooks, presets, templates and courses through Instagram DMs: free-to-paid funnels, checkout links, email capture and keeping buyers.
+- [Lead magnet ideas for Instagram creators, by niche](https://tinkerfeed.in/lead-magnet-ideas-creators/): Lead magnet ideas for creators to deliver by Instagram comment keyword, organised by niche, with what makes a lead magnet worth an email and how to deliver it.
+- [What auto-DM tools cost Indian creators](https://tinkerfeed.in/auto-dm-tool-cost-india/): What Indian creators actually pay for Instagram auto-DM tools in rupees: free plans, entry prices, what pushes you onto a paid plan and dollar-priced tools.
+- [Instagram automation without a Facebook Page](https://tinkerfeed.in/auto-dm-without-facebook-page/): How Instagram automation works without a Facebook Page using Instagram Login, what you need instead, and how it compares with the older Facebook-linked setup.
+- [How to switch to an Instagram professional account for automation](https://tinkerfeed.in/instagram-professional-account-setup/): Why automation needs an Instagram professional account, creator vs business, how to switch, what changes and what to check before connecting a DM tool.
+- [How to measure comment-to-DM results](https://tinkerfeed.in/measure-comment-to-dm-results/): What to measure for Instagram comment-to-DM: DMs sent, opens, link clicks, follows from gates and emails captured per reel, and how to act on the numbers.
+- [How to A/B test your Instagram DMs](https://tinkerfeed.in/ab-test-dm-messages/): How creators A/B test automated Instagram DMs: what to test, how to split traffic, how long to run a test and how to read the result without fooling yourself.
+- [The Instagram 24-hour messaging window, explained](https://tinkerfeed.in/instagram-24-hour-messaging-window/): What Instagram's 24-hour messaging window means for automated DMs, how comments, story replies and DMs open it, the 7-day human agent window and planning around it.
+- [How to send a product carousel in an Instagram DM](https://tinkerfeed.in/product-carousel-in-dm-creators/): How creators send several products in one Instagram DM as a carousel: when to use it, how many cards, writing each card and tracking clicks per product.
+- [How to avoid spammy comment replies on Instagram](https://tinkerfeed.in/avoid-spam-in-comment-replies/): How creators keep automated public comment replies from looking like spam: rotating variants, replying only to matches, avoiding links and pacing.
+- [Instagram automation for fitness creators](https://tinkerfeed.in/instagram-automation-for-fitness/): A niche playbook for fitness creators: deliver workout plans by keyword, capture emails for programmes, handle coaching enquiries and keep claims responsible.
+- [Instagram automation for finance creators](https://tinkerfeed.in/instagram-automation-for-finance/): A niche playbook for personal finance creators: deliver free guides and templates by keyword, grow a community and keep automated DMs free of investment advice.
+- [Instagram automation for food creators](https://tinkerfeed.in/instagram-automation-for-food/): A niche playbook for food creators: send full recipes by comment keyword, build a recipe email list, share ingredient links and handle brand collab enquiries.
+- [Instagram automation for fashion creators](https://tinkerfeed.in/instagram-automation-for-fashion/): A niche playbook for fashion creators: send every piece of an outfit by comment keyword, size notes, affiliate disclosure, styling freebies and brand collabs.
+- [Instagram automation for tech creators](https://tinkerfeed.in/instagram-automation-for-tech/): A niche playbook for tech creators: send gadget and setup links by keyword, share specs, disclose affiliate and review units, and handle brand enquiries.
+- [Instagram automation for education creators](https://tinkerfeed.in/instagram-automation-for-education/): A niche playbook for teachers and education creators: send notes and PDFs by keyword, fill batches and courses, collect student emails and handle enquiries.
+- [Instagram automation for travel creators](https://tinkerfeed.in/instagram-automation-for-travel/): A niche playbook for travel creators: send itineraries and stay links by keyword, build a trip-planning email list, handle collab requests and keep links current.
+- [Instagram automation for meme pages and comedy creators](https://tinkerfeed.in/instagram-automation-for-comedy-meme-pages/): A niche playbook for meme pages and comedy creators: follower growth with gated extras, part two delivery, promotion and collab enquiries, and keeping the tone.
 
-Sitemap: https://tinkerfeed.in/sitemap.xml
+## About
+
+- [How we rank](https://tinkerfeed.in/methodology/)
+- [Disclosure](https://tinkerfeed.in/disclosure/)
